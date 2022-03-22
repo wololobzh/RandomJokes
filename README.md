@@ -1,4 +1,4 @@
-# wololobzh_project
+# RandomJoke
 
 Projet Android API 30 developpé avec Kotlin.
 
